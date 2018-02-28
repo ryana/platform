@@ -1,6 +1,6 @@
 # OriginProtocol Smart Contracts Documentation
 
-![Codeship Status](https://app.codeship.com/projects/279083/status?branch=master)
+[ ![Codeship Status for ryana/platform](https://app.codeship.com/projects/85c2c0a0-fcbc-0135-e2f4-5aa6b7e3303c/status?branch=master)](https://app.codeship.com/projects/279083)
 
 ## Introduction
 
